@@ -391,7 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-pan-lab-started-at-the-university-of-illinois-chicago-department-of-medicine-decoding-aging-and-health-one-dataset-multiple-omics-at-a-time-smile",
+            },},{id: "news-the-pan-lab-started-at-the-university-of-illinois-chicago-department-of-medicine-decoding-aging-and-health-one-dataset-multiple-omics-at-a-time",
           title: 'The Pan lab started at the University of Illinois Chicago Department of Medicine....',
           description: "",
           section: "News",},{id: "news-dr-yang-pan-has-officially-received-his-r00-award-to-support-research-on-mitochondria-and-brain-aging-sparkles",
