@@ -391,10 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-pan-lab-started-at-the-university-of-illinois-chicago-department-of-medicine-decoding-aging-and-health-one-dataset-multiple-omics-at-a-time",
+            },},{id: "news-the-pan-lab-started-at-the-university-of-illinois-chicago-department-of-medicine-decoding-aging-and-health-one-dataset-multiple-omics-at-a-time-smile",
           title: 'The Pan lab started at the University of Illinois Chicago Department of Medicine....',
           description: "",
-          section: "News",},{id: "news-dr-yang-pan-has-officially-received-his-r00-award-to-support-research-on-mitochondria-and-brain-aging-sparkles-smile",
+          section: "News",},{id: "news-dr-yang-pan-has-officially-received-his-r00-award-to-support-research-on-mitochondria-and-brain-aging-sparkles",
           title: 'Dr. Yang Pan has officially received his R00 award to support research on...',
           description: "",
           section: "News",},{id: "news-welcome-dr-zhijie-huang-our-very-first-postdoctoral-fellow-in-the-lab-zhijie-has-been-awarded-a-fellowship-from-the-uic-com-ai-health4all-center",
