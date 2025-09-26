@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yang Pan opens his lab at UIC DOM. Decoding aging and health, one dataset (multiple omics) at a time! 
+The Pan lab started at the University of Illinois Chicago Department of Medicine. Decoding aging and health, one dataset (multiple omics) at a time! 
