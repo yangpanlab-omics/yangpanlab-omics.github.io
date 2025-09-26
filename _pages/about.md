@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://chicago.medicine.uic.edu/medicine/'>Department of Medicine University of Illinois Chicago</a>. 818 South Wolcott Ave, Chicago, IL 60612.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_20250110_141021.jpg
+  caption: University of Illinois Chicago College of Medicine
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +19,18 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
+**Hello** from Dr. Yang Pan's Laboratory of **Omics and Computational Precision Health** at the University of Illinois Chicago! 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Our lab focuses on understanding the molecular mechanisms underlying aging-related diseases through multi-omics and computational precision health approaches. We integrate genomics, transcriptomics, proteomics, metabolomics, and imaging data to identify biomarkers, uncover causal pathways, and develop predictive models for precision interventions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Key research areas:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**1. Aging Nuclear and Mitochondrial Genomics:** Investigating somatic mutations, including clonal hematopoiesis (CHIP) and mitochondrial genome alterations, to understand their roles in chronic kidney disease, cognitive impairment, and other aging-related conditions.
+
+**2. Multi-Omics Integration:** Developing computational and machine learning frameworks to combine genomics, epigenomics, transcriptomics, proteomics, metabolomics, and emerging modalities such as single-cell and spatial omics for disease risk prediction.
+
+**3. Computational Precision Health:** Creating bioinformatics methods to integrate complex omics datasets, enabling predictive modeling, causal inference, and identification of novel therapeutic targets.
+
+**Our mission** is to leverage multi-omics data and advanced computational approaches to improve disease risk prediction, stratify patients for precision interventions, and ultimately inform strategies to delay or prevent age-related chronic diseases.
+
