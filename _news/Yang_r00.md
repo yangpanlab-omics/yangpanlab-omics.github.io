@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Yang Pan has officially received his R00 award to support research on mitochondria and brain aging! :sparkles: :smile:
+Dr. Yang Pan has officially received his R00 award to support research on mitochondria and brain aging! :sparkles: 
