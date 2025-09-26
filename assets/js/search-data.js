@@ -445,8 +445,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-yang-pan-opens-his-lab-at-uic-dom-decoding-aging-and-health-one-dataset-multiple-omics-at-a-time",
-          title: 'Yang Pan opens his lab at UIC DOM. Decoding aging and health, one...',
+            },},{id: "news-the-pan-lab-started-at-the-university-of-illinois-chicago-department-of-medicine-decoding-aging-and-health-one-dataset-multiple-omics-at-a-time",
+          title: 'The Pan lab started at the University of Illinois Chicago Department of Medicine....',
           description: "",
           section: "News",},{id: "news-dr-yang-pan-has-officially-received-his-r00-award-to-support-research-on-mitochondria-and-brain-aging-sparkles-smile",
           title: 'Dr. Yang Pan has officially received his R00 award to support research on...',
