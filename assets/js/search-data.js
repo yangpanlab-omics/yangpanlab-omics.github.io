@@ -445,11 +445,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-yang-pan-opens-his-lab-at-uic-dom-decoding-aging-and-health-one-dataset-multiple-omics-at-a-time",
+            },},{id: "news-yang-pan-opens-his-lab-at-uic-dom-decoding-aging-and-health-one-dataset-multiple-omics-at-a-time",
           title: 'Yang Pan opens his lab at UIC DOM. Decoding aging and health, one...',
+          description: "",
+          section: "News",},{id: "news-dr-yang-pan-has-officially-received-his-r00-award-to-support-research-on-mitochondria-and-brain-aging-sparkles-smile",
+          title: 'Dr. Yang Pan has officially received his R00 award to support research on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
