@@ -7,8 +7,8 @@ subtitle: <a href='https://chicago.medicine.uic.edu/medicine/'>Department of Med
 profile:
   align: right
   image: IMG_20250110_141021.jpg
-  caption: University of Illinois Chicago College of Medicine
-
+  more_info: >
+      <p>University of Illinois Chicago College of Medicine</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
