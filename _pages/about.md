@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://chicago.medicine.uic.edu/medicine/'>Department of Medicine University of Illinois Chicago</a>. 818 South Wolcott Ave, Chicago, IL 60612.
+subtitle: <a href='https://chicago.medicine.uic.edu/medicine/'>Department of Medicine University of Illinois Chicago</a>.
 
 profile:
   align: right
