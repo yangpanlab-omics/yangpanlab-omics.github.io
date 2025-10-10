@@ -1,4 +1,4 @@
----
+   ---
 layout: about
 title: about
 permalink: /
@@ -19,7 +19,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-**Hello** from Dr. Yang Pan's Laboratory at the University of Illinois Chicago! 
+**Hello** from Dr. Yang Pan's Laboratory of **Omics and Precision Health** at the University of Illinois Chicago! 
 
 Our lab focuses on understanding the molecular mechanisms underlying aging-related diseases through multi-omics and computational precision health approaches. We integrate genomics, transcriptomics, proteomics, metabolomics, and imaging data to identify biomarkers, uncover causal pathways, and develop predictive models for precision interventions.
 
